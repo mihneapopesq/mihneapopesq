@@ -1,9 +1,14 @@
+<h2 align="left">Hi 👋! I'm Mihnea!</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mihneapopesq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihneapopesq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+
+<h2 align="left">Languages and tools I'm proficient in</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
@@ -57,7 +62,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="40" alt="discord logo"  />
 </div>
 
-###
+### <h2 align="left">Contact / Social Media</h2>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
