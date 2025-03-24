@@ -72,13 +72,33 @@
 ### <h2 align="left">Contact / Social Media</h2>
 
 <div align="left">
+<a href="https://www.linkedin.com/in/mihnea-popescu1811/" target="_blank" style="display: inline-block; text-decoration: none; line-height: 0; border: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
+</a>
+
+
+
+ <a href="https://discordapp.com/users/599862461805363221" target="_blank" style="display: inline-block; text-decoration: none; line-height: 0; border: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="30" alt="slack logo" />
+</a>
+
+ <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="30" alt="slack logo" /> -->
+ <a href="https://www.instagram.com/mihnea_ppsc18" target="_blank" style="display: inline-block; text-decoration: none; line-height: 0; border: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo" />
+</a>
+
+  <a href="mailto:popescumihneagabriel@gmail.com" target="_blank" style="display: inline-block; text-decoration: none; line-height: 0; border: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo" />
+</a>
+
+ <a href="mailto:mihnea.popescu1811@stud.acs.upb.ro" target="_blank" style="display: inline-block; text-decoration: none; line-height: 0; border: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="30" alt="microsoft-outlook logo" />
+</a>
+
+  <a href="https://leetcode.com/u/Mihnosu/" target="_blank" style="display: inline-block; text-decoration: none; line-height: 0; border: none;">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" height="30" alt="LeetCode logo" />
+</a>
+
 </div>
 
 
