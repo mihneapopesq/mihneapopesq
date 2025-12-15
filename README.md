@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Mihnea!</h2>
+<h2 align="left">Hi 👋! I'm Mihnea! 🇷🇴</h2>
 
 <div align="center">
   
