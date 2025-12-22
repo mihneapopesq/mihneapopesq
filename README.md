@@ -12,7 +12,7 @@
 ###
 
 
-<h2 align="left">Languages and tools I'm proficient in</h2>
+<h2 align="left">Languages and tools I'm proficient in:</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
@@ -73,7 +73,7 @@
 </div>
 
 
-### <h2 align="left">Contact / Social Media</h2>
+### <h2 align="left">Contact / Social Media:</h2>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/mihnea-popescu1811/" target="_blank" style="display: inline-block; text-decoration: none; line-height: 0; border: none;">
